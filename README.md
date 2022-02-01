@@ -1,1 +1,1 @@
-https://ramil163.github.io/rsschool-cv-2022stage0/cv
+https://ramil163.github.io/rsschool-cv-2022stage0/
