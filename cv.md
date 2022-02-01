@@ -5,3 +5,9 @@
 ##E-mail: mustafin.rf@yandex.ru
 
 [link to github](github - https://github.com/Ramil163/)
+
+##Technical Skills Programming languages and technologies: JavaScript, HTML, CSS/SCSS
+
+##Frameworks and Libraries: React
+
+##Tools: GIT, Webpack, VS Code, Visual Studio Code Other skills: video & audio editing, video encoding, youtube streaming
