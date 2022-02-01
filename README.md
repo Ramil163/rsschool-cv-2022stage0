@@ -1,0 +1,1 @@
+# rsschool-cv-2022stage0
