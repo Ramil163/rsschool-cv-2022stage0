@@ -483,3 +483,7 @@ margin-bottom: 0;
 .menu_list > li._active .menu_sub-list {
   display: block;
 }
+
+.contacts span {
+   font-weight: 900;
+}
